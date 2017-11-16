@@ -1,3 +1,5 @@
+package Ls;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -68,6 +70,5 @@ public class General {
         } else {
             System.out.println( 0 + " " + 0 + " " + 0 );
         }
-
     }
 }
